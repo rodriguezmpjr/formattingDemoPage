@@ -1,0 +1,15 @@
+Total height:
+
+20+1+10+150+10+1+20 = 212
+
+Total width:
+
+20+1+10+400+10+1+20 = 462
+
+Browser calculated height:
+
+1+10+150+10+1 = 172
+
+Browser calculated length:
+
+1+10+400+10+1 = 422
